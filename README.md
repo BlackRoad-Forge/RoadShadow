@@ -1,3 +1,11 @@
+# RoadShadow
+
+> Shadow network simulator for 30K node networks
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem. Forked from [`shadow/shadow`](https://github.com/shadow/shadow).
+
+---
+
 # The Shadow Simulator
 
 ## Quickstart
